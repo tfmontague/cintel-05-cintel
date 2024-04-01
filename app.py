@@ -30,7 +30,7 @@ def display_temperature_chart():
     fig.update_layout(plot_bgcolor='#444', paper_bgcolor='#444', font_color='aqua')  # Customize background and font color
     return fig
 
-ui.page_opts(title="PyShiny Express: Live Data (Basic)", fillable=True)
+ui.page_opts(title="PyShiny Express: Live Data (Enhanced)", fillable=True)
 
 # Original UI layout and style setup
 ui.HTML("""
