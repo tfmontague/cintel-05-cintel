@@ -52,8 +52,8 @@ with ui.sidebar():
         ui.card_header("Additional Details and References:", style="background-color: #555; color: aqua;")
         ui.hr(style="border-top: 1px solid #777;")
         ui.h6("Links:", style="color: aqua;")
-        ui.a("GitHub Source", href="https://github.com/denisecase/cintel-05-cintel-basic", target="_blank", style="color: #1E90FF;")
-        ui.a("GitHub App", href="https://denisecase.github.io/cintel-05-cintel-basic/", target="_blank", style="color: #1E90FF;")
+        ui.a("GitHub Source", href="https://github.com/tfmontague/cintel-05-cintel", target="_blank", style="color: #1E90FF;")
+        ui.a("GitHub Inspiration App", href="https://denisecase.github.io/cintel-05-cintel-basic/", target="_blank", style="color: #1E90FF;")
         ui.a("PyShiny", href="https://shiny.posit.co/py/", target="_blank", style="color: #1E90FF;")
 
 # Main layout with "Current Temperature" and "Current Date and Time" cards
